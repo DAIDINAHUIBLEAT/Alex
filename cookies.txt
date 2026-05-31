@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+3000-imfwms85nvly0tjo9wcte-5634da27.sandbox.gensparksite.com	TRUE	/	FALSE	1999999999	__cf_bm	Bxz2BorXMyYdouOxE2op6fpFCG.kuTdW9NqN3yy6LmQ-1780127043.0629685-1.0.1.1-Np3lM78wAXz5QNwGopdSl5NSI5bknF8cv.aUIkiTmKVXGHadF_z3twGUGPaxBDpH1j8W6lZJbeZkxCh5Qlo0PCAniqaLsv1aaOJ3i2HfGQFbNB2l0F4peOGeTVRfkcZP
+gensparksite.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.genspark.ai	TRUE	/	FALSE	1999999999	__cf_bm	6R0zoYks9IqHTptBjPI3zoyL8YSkuXW6xFSVoOnoGp4-1780127045.920929-1.0.1.1-fx1ObOzx38fSEeeEpz0LHnuNzjDFowkLYSG9z4J0gSjjwSySJXbQapWjSKvsOlQjDA_YoHPT7UqaLWjbpCQlYggRyYLNn0b3NZV4ipgFrfVj9EAq8lboMVumk0o9k8sZ
+genspark.ai	TRUE	/	FALSE	1999999999	SameSite	None
+
